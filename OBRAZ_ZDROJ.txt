@@ -1,0 +1,12 @@
+Obraz na pozadí (assets/hero.jpg)
+
+Autor:     Caspar David Friedrich (1774 až 1840)
+Název:     Mnich u moře (Der Mönch am Meer), 1808 až 1810
+Muzeum:    Alte Nationalgalerie, Berlín
+Zdroj:     Wikimedia Commons, soubor "Caspar David Friedrich - Der Mönch am Meer - Google Art Project.jpg"
+Originál:  https://upload.wikimedia.org/wikipedia/commons/2/21/Caspar_David_Friedrich_-_Der_M%C3%B6nch_am_Meer_-_Google_Art_Project.jpg
+Licence:   volné dílo (autor zemřel 1840), na Wikimedia Commons označeno Public domain
+Stažení:   13. 10. 2026, originál 3543 x 2254 px, 5 066 769 B
+Úpravy:    zmenšeno na 2000 px na šířku (JPEG, kvalita 76), na stránce celé ztmaveno a vlevo nahoře ztmaveno víc kvůli čitelnosti textu
+
+Písmo: Newsreader, Copyright 2020 The Newsreader Project Authors, licence SIL Open Font License 1.1 (assets/OFL.txt).
